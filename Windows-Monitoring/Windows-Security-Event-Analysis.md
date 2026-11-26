@@ -21,6 +21,6 @@ Shows the Windows Security event generated when a user account becomes locked ou
 
 4. Event ID 4672 – Special Privileges Assigned
 
-<img width="1535" height="817" alt="EventID-4672-EventViewer" src="https://github.com/user-attachments/assets/f760a414-7087-4750-9326-d333dc6e96c4" />
+<img width="1535" height="816" alt="EventID-4672-Splunk-Investigation" src="https://github.com/user-attachments/assets/a8173b84-303d-46cc-b11b-c3725f6f59ea" />
 
 Shows a Windows Security event generated when special privileges are assigned to a new logon session. The investigation examines privileged accounts and their assigned privileges.
