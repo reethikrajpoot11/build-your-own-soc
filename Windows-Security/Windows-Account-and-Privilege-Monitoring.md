@@ -21,7 +21,7 @@ Created a test account named `SOC_TestUser` using Windows Command Prompt.
 
 Command used:
 
-`net user SOC_TestUser Test@12345 /add`
+`net user SOC_TestUser <temporary_password> /add`
 
 ### Event Viewer Findings
 
