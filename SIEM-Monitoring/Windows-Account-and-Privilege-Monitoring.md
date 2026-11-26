@@ -21,4 +21,4 @@ Event ID 4672 – Special Privileges Assigned
 
 Here are the screenshots showing special privilege assignments in Windows Event Viewer and Splunk. They demonstrate how privileged logon sessions can be monitored during security investigations.
 
-<img width="1535" height="816" alt="EventID-4672-Splunk-Investigation" src="https://github.com/user-attachments/assets/7f8a749a-6f2b-41c7-9879-b8710975f7e3" />
+<img width="1535" height="817" alt="EventID-4672-EventViewer" src="https://github.com/user-attachments/assets/0256992d-6b8d-471d-9104-a1339257b5fc" />
